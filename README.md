@@ -1,2 +1,2 @@
-# haproxy-hussein-nasser
-https://www.youtube.com/watch?v=qYnA2DFEELw
+# taken from videos of hussein-nasser
+https://www.youtube.com/c/HusseinNasser-software-engineering/videos
